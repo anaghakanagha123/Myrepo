@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class Student {
 	int sid;
 	String sname;
-	 int sage;
+	int sage;
 
 	public void fetchStudentDetails()
 	{
